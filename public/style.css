@@ -1,0 +1,108 @@
+nav{
+    background-color: rgba(243,224,8,255);
+}
+.bar2>ul{
+    list-style: none;
+    display: flex;
+    font-size: small;
+    font-style: bold;
+    justify-content: space-between;
+    padding-top: 13px;
+}
+
+/* img{
+    border-radius: 50%;
+} */
+
+.list2{
+    list-style: none;
+    display: flex;
+    gap: 8px;
+}
+
+.cdeals{
+    width: 100%;
+    background-color: pink;
+
+}
+.gift{
+    width: 100%;
+    height: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.deals{
+    background-color: #ffebad;
+    width: 100%;
+}
+.main3{
+    background-color: #ffebad;
+    width: 100%;
+}
+.kids{
+    background-color: #ffebad;
+    width: 100%;
+}
+.mob{
+    background-color: #ffebad;
+    width: 100%;
+}
+.noongrocessory{
+    margin-top: 15px;
+    width: 100%;
+    background-color: lightgray;
+}
+.bannergif{
+    width: 100%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.main2{
+    background-color: lightpink;
+}
+.yatae{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 100%;
+
+}
+.yatae>img{
+    width: 100%;
+}
+.electronics{
+    background-color: #ffe6cd;
+}
+.gift{
+    width: 100%;
+}
+.gift>img{
+    width: 100%;
+}
+.la{
+    background-color: #ffe6cd;
+
+}
+.almashriq{
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+.beauty{
+    background-color: #ffebad;;
+    width: 100%;
+    height: auto;
+}
+.kitchen{
+    background-color: #ffe6cd;
+    width: 100%;
+    height: auto;
+}
+.card{
+    border: none;
+    
+}
+li{
+    list-style-type: none;
+}
